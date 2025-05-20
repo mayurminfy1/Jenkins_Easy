@@ -1,13 +1,11 @@
-## How To Run
-Open Jenkins dashboard (http://localhost:8080)
 
-Click New Item → select Pipeline → name it HelloJenkins
 
-Paste the above script into the Pipeline Script section
+![Jenkins Dashboard](https://github.com/mayurminfy1/Jenkins_Easy/blob/main/jenkin%201.png?raw=true)
 
-Save and click Build Now
+![Jenkins stages](https://github.com/mayurminfy1/Jenkins_Easy/blob/main/Jenkin%204.png?raw=true)
 
-Monitor progress using Console Output and Stage View# What I Learned
+![Jenkins console_output](https://github.com/mayurminfy1/Jenkins_Easy/blob/main/Jenkins%203.png?raw=true)
+
 
 ## what i learned
 
